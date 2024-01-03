@@ -1,1 +1,1 @@
-IMG for Sierra MACOS
+HansTechHub Main Channel
