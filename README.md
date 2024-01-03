@@ -1,1 +1,1 @@
-IMG for Sierra MACOS
+Channel for Snare Docker Env
